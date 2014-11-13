@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天气Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- main -->
+    <string name="main_text_title">请输入要查询的城市(如：北京)</string>
+    <string name="main_btn_baidu">百度接口</string>
+    <string name="main_btn_qxj">气象局接口</string>
+
+</resources>
